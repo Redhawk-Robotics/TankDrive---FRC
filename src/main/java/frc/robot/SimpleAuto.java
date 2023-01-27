@@ -1,5 +1,12 @@
 package frc.robot;
 
+/**
+ * @Filename:SimpleAuto.java
+ * @Purpose:This SimpleAuto.java File is for a Simple Auton to move forward for 1.5x speed for 3 seconds
+ * @Author:RedHawk Robotics FRC 8739
+ * @Date:1/26/2023
+ */
+
 import edu.wpi.first.wpilibj.Timer;
 import edu.wpi.first.wpilibj.drive.DifferentialDrive;
 

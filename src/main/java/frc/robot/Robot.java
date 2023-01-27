@@ -6,7 +6,7 @@
  * @Filename:Robot.java
  * @Purpose:This Robot.java File is for the functionality for the entirety of the TankDrive 
  * @Version:1.0
- * @Author:RedHawk Robotics FRC 87390`
+ * @Author:RedHawk Robotics FRC 8739
  * @Date:1/26/2023
  */
 
